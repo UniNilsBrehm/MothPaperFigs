@@ -16,5 +16,6 @@ Animals in Figures:
 | 5B | same as in 5A; Poission also 20 Trials for 17 groups of trains |
 | 6  | Estigmene acrea (n=1), 17 Moths calls; 10 Bat calls |
 
+the figure numbers are out of order.... do not bother about that for now ;D.
 
 Nils Brehm
